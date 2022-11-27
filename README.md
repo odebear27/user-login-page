@@ -21,3 +21,6 @@ If the `username` and/or `password` keyed into the system matches that in the `u
 
 The `username`, `password`, `last_login` will be saved to the login table in MySQL database.
 ![image](https://user-images.githubusercontent.com/101394672/204129415-59f8803e-829f-47f7-91b2-5ee7e03053aa.png)
+
+## Improvements in the Future
+Password should be hashed if storing in MySQL database for security reasons.
