@@ -1,5 +1,5 @@
 # User Login Page
-A Java Project on Login Page which saves user information to MySQL Database
+A Java Project on Login Page which validates username and password for a successful login before saving user information to MySQL Database
 
 ## Features
 * SpringBoot
