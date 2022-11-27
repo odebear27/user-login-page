@@ -43,7 +43,7 @@ public class WebController {
 		loginService.addLogin(login);
 		usernameString = userInfo.getUsername();
 		ModelAndView modelAndView = new ModelAndView();
-	    modelAndView.setViewName("fileUpload.html");
+	    modelAndView.setViewName("success.html");
 	    return modelAndView;
 	}
 	
